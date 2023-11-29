@@ -3,6 +3,8 @@ Converting Requirments to Test Scenarios Utilizing Behavior-Driven Design
 
 ## روال انجام آزمایش
 
+<div dir="rtl">
+
 ‍1. مراحل مستند به صورت عملی انجام شدند. تصویر انجام آن در ادامه آمده است.
 
 ![1](Images/1-new-project.png)
@@ -21,4 +23,7 @@ Converting Requirments to Test Scenarios Utilizing Behavior-Driven Design
    - برای رفع این مشکل، علامت منفی در رجکس اضافه شده است.
     ![9](Images/9-fix.png)
 
-    
+3. تابع مسئله به کلاس `calculator` اضافه شده است. سپس تست‌های مربوط به آن نوشته شده و در فایل `f.feature` قرار گرفته است. نتیجه اجرای موفقیت آمیز این تست‌ها نیز در تصویر زیر مشخص است. 
+  ![10](Images/10-new.png)
+
+</div>

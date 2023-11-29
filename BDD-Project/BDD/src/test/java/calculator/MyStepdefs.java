@@ -35,4 +35,10 @@ public class MyStepdefs {
         Assert.assertEquals(arg0, result);
 
     }
+
+    @When("^I run f with the two values$")
+    public void iRunFWithTheTwoValues() {
+        result = calculator.f(value1, value2);
+        System.out.print(result);
+    }
 }
